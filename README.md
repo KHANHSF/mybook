@@ -6,7 +6,7 @@ git clone https://github.com/MDoTrongKhanh/opening-book-creator/
 pip install python-chess
 ```
 ```bash
-python create_polyglot.py -u
+python create_polyglot.py
 ```
  
 
